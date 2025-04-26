@@ -24,9 +24,10 @@ Predict which customers are likely to leave a bank (churn) and analyze key patte
 - GitHub (Version Control)
 
 ## Project Files
-- `churn_modeling_notebook.ipynb` - Python code for data processing, modeling, and predictions.
+- `PROJECT 1 CHURN PREDICTION MODEL.ipynb` - Python code for data processing, modeling, and predictions.
 - `xgb_churn_results_for_powerbi.csv` - Final output for dashboarding.
 - `Churn Model Prediction Project 1.pbix` - Power BI dashboard file.
+- `Churn_Modelling.csv`- data base used
 - `README.md` - Project documentation.
 
 ## Contact
